@@ -4,9 +4,9 @@ Projeto desenvolvido para a disciplina de **Análise Estatística de Dados do Ag
 
 ## 👨‍👩‍👦 Integrantes do grupo
 
-- **Tiago Alves Cordeiro** – RM561791 – alves.tiago@gmail.com  
-- **Edson Henrique Felix Batista** – henrique.ti1196@gmail.com  
-- **Matheus Parra** – matheusparra001@gmail.com  
+- **Tiago Alves Cordeiro** 
+- **Edson Henrique Felix Batista**  
+- **Matheus Parra**  
 
 ## 📁 Arquivos do Projeto
 
